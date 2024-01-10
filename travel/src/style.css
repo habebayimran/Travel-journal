@@ -1,0 +1,38 @@
+#nav-h4{
+    color: black;
+    margin-top: 10px;
+    margin-left: 550px;
+}
+.card-div{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    overflow: hidden;
+    border: 3px solid gray;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: black;
+}
+#card-divv{
+    color: white;
+    margin-left: 15px;
+}
+#carddivh2{
+    margin-top: -10px;
+}
+#cardivh3{
+    margin-top: -20px;
+}
+#carddivstart{
+    margin-top: -10px;
+}
+#carddivend{
+    margin-top: -10px;
+}
+#carddivdsp{
+    margin-top: -8px;
+}
+#imgg{
+    width:300px;
+    border: 3px solid gray;
+}
